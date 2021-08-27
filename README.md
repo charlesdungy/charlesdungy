@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**charlesdungy/charlesdungy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Charles and I'm a computer science student at UT Dallas.<br>
+Here's my LinkedIn profile: https://www.linkedin.com/in/charlesdungy/
 
-Here are some ideas to get you started:
+These are the latest personal projects I am working on and thinking about. I like to work on things that overlap between software engineering and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ### NYC Service Requests Pipeline & Dashboard
+> [Repository Link](https://github.com/charlesdungy/nyc-service-requests-pipeline)
+>
+> <img src="https://github.com/charlesdungy/nyc-service-requests-pipeline/blob/main/data/images/nyc_pipeline.png?raw=true" alt="pipeline"/>
+> 
+
+> ### New to Netflix Data Scraper & Pipeline
+> [Repository Link](https://github.com/charlesdungy/new-to-streaming-scraper)
+>
+> <img src="https://github.com/charlesdungy/new-to-streaming-scraper/blob/main/data/images/new-to-streaming-pipeline.png?raw=true" alt="pipeline"/>
+>
