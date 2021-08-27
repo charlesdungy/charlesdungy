@@ -8,6 +8,8 @@ FWIW: Here's my LinkedIn profile: https://www.linkedin.com/in/charlesdungy/
 These are the latest personal projects I am working on and thinking about.<br>
 I like to work on things that overlap between software engineering and data science.
 
+<br>
+
 > ### NYC Service Requests Pipeline & Dashboard
 > [Repository Link](https://github.com/charlesdungy/nyc-service-requests-pipeline)
 > - The goal of this project is to highlight details about NYC service requests.
@@ -15,6 +17,8 @@ I like to work on things that overlap between software engineering and data scie
 > - Then data is transformed and loaded into a MySQL database, after which Tableau queries to create a dashboard.
 > <img src="https://github.com/charlesdungy/nyc-service-requests-pipeline/blob/main/data/images/nyc_pipeline.png?raw=true" alt="pipeline"/>
 > 
+
+<br>
 
 > ### New to Netflix Data Scraper & Pipeline
 > [Repository Link](https://github.com/charlesdungy/new-to-streaming-scraper)
