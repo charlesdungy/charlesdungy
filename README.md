@@ -20,7 +20,7 @@ I like to work on things that overlap between software engineering and data scie
 > [Repository Link](https://github.com/charlesdungy/new-to-streaming-scraper)
 > - The goal of this project is to show new titles streaming on Netflix along with their details, like ratings and Rotten Tomatoes' scores.
 > - Data is scraped from whats-on-netflix.com and rottentomatoes.com, which is then transformed and cleaned with R or Python.
-> - Next the data is placed in a MySQL database and R is used to visualize the results, which I am testing here: https://charlesdungy.github.io/new-to-streaming-scraper/
+> - Next the data is placed into a MySQL database and R is used to query and visualize the results, which I am testing here: https://charlesdungy.github.io/new-to-streaming-scraper/
 > <img src="https://github.com/charlesdungy/new-to-streaming-scraper/blob/main/data/images/new-to-streaming-pipeline.png?raw=true" alt="pipeline"/>
 >
 
