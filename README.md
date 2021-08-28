@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hello! 👋
 
 <p>I'm Charles and I'm a computer science student at UT Dallas.<br>
 I graduate with a BS this December 2021 and a MSCS next summer 2022.</p>
